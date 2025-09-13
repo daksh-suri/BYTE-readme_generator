@@ -1,0 +1,31 @@
+body {
+  font-family: system-ui, Arial, sans-serif;
+  max-width: 720px;
+  margin: auto;
+  padding: 0 12px;
+}
+
+span,
+input,
+button {
+  /* display: block; */
+  margin: 8px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 8px 12px;
+}
+
+pre {
+  margin-top: 10px;
+  background: #f6f8fa;
+  border: 1px solid #ddd;
+  padding: 12px;
+  min-height: 140px;
+  white-space: pre-wrap;
+}
+
+/* a{
+  border: 1px solid black;
+} */
